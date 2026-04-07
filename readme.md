@@ -6,7 +6,7 @@ This lab demonstrates how to accelerate machine learning model training by distr
 
 ## Original Lab Reference
 
-This lab is based on the [Original Lab Repository](https://github.com/raminmohammadi/MLOps/blob/main/Labs/Model_Development/Ray/Ray.ipynb) from the official Ray documentation, adapted for the IE 7374 MLOps course (Spring 2026).
+This lab is based on the [MLOps Repository - Model Development Labs](https://github.com/raminmohammadi/MLOps/blob/main/Labs/Model_Development/Ray/Ray.ipynb) from IE7374 MLOps course (Spring 2026).
 
 ## Changes Made
 
